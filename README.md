@@ -2,4 +2,4 @@
 
 A Google Search engine home page clone made using HTML5, CSS
 
-![preview](images/preview.jpg)
+![preview](image/preview.jpg)
